@@ -15,7 +15,7 @@
 
 Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Automation Engineer 🚀 from Nepal.
 
-  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
