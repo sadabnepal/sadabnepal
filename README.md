@@ -19,7 +19,7 @@ Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Auto
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on WebDriverIO with TypeScript;
+- 👨🏽‍💻 I’m currently working on WebDriverIO;
 - 🌱 I’m currently learning DS and Algo :wink:; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/);
@@ -37,12 +37,12 @@ Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Auto
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Selenium     	4 hour         █████▒░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java         	4 hour         ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-WebDriverIO		20 hour        ██████████████▒░░░░░░░░░░   50.00 % 
-TypeScript      8 hour         ███████▒░░░░░░░░░░░░░░░░░   20.00 % 
-Appium       	1 hour         ██▓░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-DS & Algo       3 hour         ██▓░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Selenium     4 hour     █████▒░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java         4 hour     ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+WebDriverIO	 20 hour    ██████████████▒░░░░░░░░░░   50.00 % 
+TypeScript   8 hour     ███████▒░░░░░░░░░░░░░░░░░   20.00 % 
+Appium       1 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+DS & Algo    3 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 <!--END_SECTION:waka-->
 
