@@ -5,7 +5,7 @@
 <a href="https://twitter.com/SaqibSadab">
   <img align="left" alt="MD SADAB SAQIB | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://github.com/sadabnepal/sadabnepal.git">
+<a href="https://github.com/sadabnepal">
   <img align="left" alt="Sadab's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
@@ -15,7 +15,7 @@
 
 Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Automation Engineer 🚀 from Nepal.
 
-  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="400" height="260" />
   
 **Talking about Personal Stuffs:**
 
@@ -37,16 +37,16 @@ Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Auto
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Selenium     4 hour     █████▒░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java         4 hour     ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-WebDriverIO	 20 hour    ██████████████▒░░░░░░░░░░   50.00 % 
-TypeScript   8 hour     ███████▒░░░░░░░░░░░░░░░░░   20.00 % 
-Appium       1 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-DS & Algo    3 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Selenium     	4 hour     █████▒░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java			4 hour     ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+WebDriverIO		20 hour    ██████████████▒░░░░░░░░░░   50.00 % 
+TypeScript   	8 hour     ███████▒░░░░░░░░░░░░░░░░░   20.00 % 
+Appium       	1 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+DS & Algo    	3 hour     ██▓░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
