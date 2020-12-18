@@ -17,7 +17,7 @@ Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Auto
 
   <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="400" height="260" />
   
-**Talking about Personal Stuffs:**
+**Talking about few Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on WebDriverIO;
 - 🌱 I’m currently learning DS and Algo :wink:; 
@@ -50,7 +50,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **My Todoist Stats:**
+🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  Successfully integrated my webdriverio project with Jenkins           
 🌸  Completed 8 framework developement from scratch           
