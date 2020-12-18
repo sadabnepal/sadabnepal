@@ -1,31 +1,72 @@
-### Hi there 👋 I am Sadab Saqib
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/sadabnepal/">
+  <img align="left" alt="Sadab's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/SaqibSadab">
+  <img align="left" alt="MD SADAB SAQIB | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://github.com/sadabnepal/sadabnepal.git">
+  <img align="left" alt="Sadab's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 
-<!--
-**sadabnepal/sadabnepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me
-I am a passionate Test Automation Engineer who loves Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, WebDriverIO, Postman, Restassured, Jenkins, Bamboo, Java, Python, TypeScript, Git and AWS services. I believe in continious learning, implementing them and improving day by day.
+Hi, I'm [MD SADAB SAQIB!](https://sadabnepal.github.io/), a passionate Test Automation Engineer 🚀 from Nepal.
 
-I am expert in framework development using WebdriverIO with TypeScript and Selenium Webdriver with Java.
+  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-### Hobbies
-1. *Framework Desigining*
-2. *Travelling*
+- 👨🏽‍💻 I’m currently working on WebDriverIO with TypeScript;
+- 🌱 I’m currently learning DS and Algo :wink:; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/);
+- 📝[Resume](https://sadabnepal.github.io/files/MdSadabSaqib_Resume.pdf)
 
-### Get in Touch
-1. Email : sadabnepal1993@gmail.com
-2. Linkedin : https://www.linkedin.com/in/sadabnepal/
+**Languages and Tools:**  
 
-### Portfolio
- [Click here to view my complete profile](https://sadabnepal.github.io/)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Selenium     	4 hour         █████▒░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java         	4 hour         ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+WebDriverIO		20 hour        ██████████████▒░░░░░░░░░░   50.00 % 
+TypeScript      8 hour         ███████▒░░░░░░░░░░░░░░░░░   20.00 % 
+Appium       	1 hour         ██▓░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+DS & Algo       3 hour         ██▓░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  Successfully integrated my webdriverio project with Jenkins           
+🌸  Completed 8 framework developement from scratch           
+✅  Learnt Setting bamboo plans           
+⏳   Learning Appium
+<!-- TODO-IST:END -->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham" alt="sadabnepal" />
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
+
+
