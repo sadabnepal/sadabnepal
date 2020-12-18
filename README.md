@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Sadab Saqib
 
 <!--
 **sadabnepal/sadabnepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am a passionate Test Automation Engineer who loves Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, WebDriverIO, Postman, Restassured, Jenkins, Bamboo, Java, Python, TypeScript, Git and AWS services. I believe in Keep learning new technologies, implementing them and improving day by day. I like to implement my skills to improve the things.
+I am a passionate Test Automation Engineer who loves Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, WebDriverIO, Postman, Restassured, Jenkins, Bamboo, Java, Python, TypeScript, Git and AWS services. I believe in continious learning, implementing them and improving day by day.
 
 I am expert in framework development using WebdriverIO with TypeScript and Selenium Webdriver with Java.
 
@@ -27,4 +27,5 @@ I am expert in framework development using WebdriverIO with TypeScript and Selen
 1. Email : sadabnepal1993@gmail.com
 2. Linkedin : https://www.linkedin.com/in/sadabnepal/
 
-[Portfolio](https://sadabnepal.github.io/)
+### Portfolio
+ [Click here to view my complete profile](https://sadabnepal.github.io/)
