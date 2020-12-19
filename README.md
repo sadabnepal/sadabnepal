@@ -52,10 +52,10 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
-🏆  Successfully integrated my webdriverio project with Jenkins           
-🌸  Completed 8 framework developement from scratch           
-✅  Learnt Setting bamboo plans           
-⏳   Learning Appium
+🏆  100 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 
