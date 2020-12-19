@@ -37,7 +37,10 @@ Hi, I'm [MD SADAB SAQIB](https://sadabnepal.github.io/), a passionate Test Autom
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         2 hrs 33 mins   █████████████████▓░░░░░░░   70.93 % 
+XML          30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Properties   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 <!--END_SECTION:waka-->
 
