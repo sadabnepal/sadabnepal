@@ -19,10 +19,10 @@ Hi, I'm [MD SADAB SAQIB](https://sadabnepal.github.io/), a passionate Test Autom
   
 **Talking about few Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on WebDriverIO;
-- 🌱 I’m currently learning DS and Algo :wink:; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/);
+- 👨🏽‍💻 I’m currently working on WebDriverIO with TypeScript
+- 🌱 I’m currently learning DS and Algo :wink:
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
 - 📝[Resume](https://sadabnepal.github.io/files/MdSadabSaqib_Resume.pdf)
 
 **Languages and Tools:**  
@@ -46,7 +46,7 @@ JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
