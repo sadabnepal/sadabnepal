@@ -32,7 +32,7 @@
 </div>
 
 ## Repository status
-[![time tracker](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg)](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG)
+[![Selenium_Java](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg)](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
