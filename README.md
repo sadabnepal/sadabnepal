@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40px"/>I am Md Sadab Sadab</h2>
+<h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Md Sadab Sadab</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
 [![Website Badge](https://img.shields.io/badge/-sadabnepal.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sadabnepal.github.io/)](https://sadabnepal.github.io/)
