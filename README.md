@@ -4,7 +4,6 @@
 [![Website Badge](https://img.shields.io/badge/-sadabnepal.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sadabnepal.github.io/)](https://sadabnepal.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-@SadabSaqib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaqibSadab)](https://twitter.com/SaqibSadab)
 [![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
 ## I'm a passionate Test Automation Engineer 🚀 from Nepal.
