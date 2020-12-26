@@ -57,8 +57,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-
-📈 My GitHub Stats
+---
 <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham" alt="sadabnepal" />
 
 ### Spotify Playing 🎧
