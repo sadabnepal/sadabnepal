@@ -11,11 +11,11 @@
   
 **Talking about few Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on WebDriverIO with TypeScript
-- 🌱 I’m currently learning DS and Algo :wink:
+- 🔭 I’m currently working on [WebdriverIO with TypeScript](https://github.com/sadabnepal/WDIO6_TypeScript_BDD)
+- 🌱 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📝[Resume](https://sadabnepal.github.io/files/MdSadabSaqib_Resume.pdf)
+- 📄 Checkout my [Resume](https://github.com/sadabnepal/sadabnepal.github.io/blob/master/files/MdSadabSaqib_Resume.pdf)
 
 **Languages and Tools:**  
 <p align="left"> 
@@ -92,10 +92,11 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 <!-- TODO-IST:END -->
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham" alt="sadabnepal" />
+GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadabnepal&show_icons=true&locale=en&layout=compact" alt="sadabnepal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&locale=en" alt="sadabnepal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" /></p>
 
----
-GitHub Trophy's
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
 
 ### Spotify Playing 🎧
