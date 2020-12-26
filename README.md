@@ -31,9 +31,6 @@
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
 </div>
 
-<div>
-  <img src="https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg" />
-</div>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
