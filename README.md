@@ -6,6 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
+## Repository status
+[![time tracker](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg)](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG)
+
+
 ## I'm a passionate Test Automation Engineer 🚀 from Nepal
 <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="350" height="220" />
   
