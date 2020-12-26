@@ -1,21 +1,13 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/sadabnepal/">
-  <img align="left" alt="Sadab's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/SaqibSadab">
-  <img align="left" alt="MD SADAB SAQIB | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://github.com/sadabnepal">
-  <img align="left" alt="Sadab's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
+<h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Md Sadab Sadab</h2>
 
+[![Linkedin Badge](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
+[![Website Badge](https://img.shields.io/badge/-sadabnepal.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sadabnepal.github.io/)](https://sadabnepal.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-@SadabSaqib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaqibSadab)](https://twitter.com/SaqibSadab)
+[![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
-<br />
-
-Hi, I'm [MD SADAB SAQIB](https://sadabnepal.github.io/), a passionate Test Automation Engineer 🚀 from Nepal.
-
-  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="400" height="260" />
+## I'm a passionate Test Automation Engineer 🚀 from Nepal
+<img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="350" height="220" />
   
 **Talking about few Stuffs:**
 
@@ -33,6 +25,12 @@ Hi, I'm [MD SADAB SAQIB](https://sadabnepal.github.io/), a passionate Test Autom
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<div>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
+</div>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
