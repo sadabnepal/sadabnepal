@@ -59,7 +59,6 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 
 📈 My GitHub Stats
-![Sadab's github stats](https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham)
 <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham" alt="sadabnepal" />
 
 ### Spotify Playing 🎧
