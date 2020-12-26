@@ -28,7 +28,7 @@
 
 <div>
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/1174975c-e919-41d2-8468-ccbee67106b5.svg" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
 </div>
 
 📊 **This Week I Spent My Time On:**
