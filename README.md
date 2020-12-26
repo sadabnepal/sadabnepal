@@ -26,6 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+----
 ## :books: My Coding Stats
 
 <div>
@@ -33,7 +34,7 @@
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
 </div>
 
-
+---
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -45,10 +46,12 @@ JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+---
 If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+---
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  446 Karma Points           
@@ -60,6 +63,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&theme=gotham" alt="sadabnepal" />
 
+---
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
