@@ -6,10 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
-## Repository status
-[![time tracker](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg)](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG)
-
-
 ## I'm a passionate Test Automation Engineer 🚀 from Nepal
 <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="350" height="220" />
   
@@ -34,6 +30,9 @@
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
 </div>
+
+## Repository status
+[![time tracker](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG.svg)](https://wakatime.com/badge/github/sadabnepal/SeleniumJava_MVN_TestNG)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
