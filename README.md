@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40px"/> I'm MD SADAB SAQIB </h1>
 <a href="https://www.linkedin.com/in/sadabnepal/">
   <img align="left" alt="Sadab's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -8,14 +8,15 @@
 <a href="https://github.com/sadabnepal">
   <img align="left" alt="Sadab's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
+[![Linkedin Badge](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
+[![Website Badge](https://img.shields.io/badge/-sadabnepal.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sadabnepal.github.io/)](https://sadabnepal.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-@SadabSaqib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaqibSadab)](https://twitter.com/SaqibSadab)
+[![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
-<br />
-
-Hi, I'm [MD SADAB SAQIB](https://sadabnepal.github.io/), a passionate Test Automation Engineer 🚀 from Nepal.
-
-  <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="400" height="260" />
+## I'm a passionate Test Automation Engineer 🚀 from Nepal.
+<img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/programmer.gif" width="350" height="220" />
   
 **Talking about few Stuffs:**
 
