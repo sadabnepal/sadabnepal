@@ -18,6 +18,7 @@
 - 📔 Checkout my [Resume](https://github.com/sadabnepal/sadabnepal.github.io/blob/master/files/MdSadabSaqib_Resume.pdf)
 - 🧾 My 2021 Goal : Master DS Algo and DevOps
 
+---
 **Languages and Tools:**  
 <p align="left"> 
 	<a href="https://aws.amazon.com" target="_blank"> 
@@ -98,10 +99,10 @@ GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&locale=en" alt="sadabnepal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" /></p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
 
-### Spotify Playing 🎧
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+
+### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
