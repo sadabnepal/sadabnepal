@@ -12,10 +12,11 @@
 **Talking about few Stuffs:**
 
 - 🔭 I’m currently working on [WebdriverIO with TypeScript](https://github.com/sadabnepal/WDIO6_TypeScript_BDD)
-- 🌱 I’m currently learning **Data structure and Algorithm**
+- 💻 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📄 Checkout my [Resume](https://github.com/sadabnepal/sadabnepal.github.io/blob/master/files/MdSadabSaqib_Resume.pdf)
+- 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
+- 📔 Checkout my [Resume](https://github.com/sadabnepal/sadabnepal.github.io/blob/master/files/MdSadabSaqib_Resume.pdf)
+- 🧾 My 2021 Goal : Master DS Algo and DevOps
 
 **Languages and Tools:**  
 <p align="left"> 
@@ -86,7 +87,7 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  446 Karma Points           
-🌸  Completed 0 tasks today           
+✍️  Completed 0 tasks today           
 ✅  Completed 5 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
