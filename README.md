@@ -84,8 +84,8 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 **My Coding Stats:**
 
 <div>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/563b91b7-f0e3-4389-9e7f-4d2eea2747e9.svg" align="left" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/c684c224-d964-4d9d-bdc5-51278c34ac68.svg" width="400"/>
 </div>
 
 
