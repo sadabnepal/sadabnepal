@@ -19,53 +19,31 @@
 - 🧾 My 2021 Goal : Master DS Algo and DevOps
 
 ---
-**Languages and Tools:**  
-<p align="left"> 
-	<a href="https://aws.amazon.com" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-	<a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-	<a href="https://www.cypress.io" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-	<a href="https://www.java.com" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-	<a href="https://www.jenkins.io" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-	<a href="https://mochajs.org" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-		<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://nodejs.org" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-	<a href="https://www.oracle.com/" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-	<a href="https://postman.com" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-	<a href="https://www.selenium.dev" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-	<a href="https://www.typescriptlang.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+**Languages and Tools:**
 
-----
-## :books: My Coding Stats
-
-<div>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
-</div>
+![Selenium](https://img.shields.io/badge/selenium%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
+![WebDriverIO](https://img.shields.io/badge/WebDriverIO%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776AB?&style=for-the-badge&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS Services](https://img.shields.io/badge/-AWS%20SERVICES-%23424160?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Bamboo](https://img.shields.io/badge/-Bamboo-%230052CC?&style=for-the-badge&logo=Bamboo&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-%230052CC?&style=for-the-badge&logo=JIRA&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-%230089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 📊 **This Week I Spent My Time On:**
@@ -79,11 +57,6 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
-
-<a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  446 Karma Points           
@@ -93,15 +66,31 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 <!-- TODO-IST:END -->
 
 ---
-GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadabnepal&show_icons=true&locale=en&layout=compact" alt="sadabnepal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&locale=en" alt="sadabnepal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" /></p>
+####  Statistics and Languages
+
+<p align="left"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=buefy" alt="sadab" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="sadab" height="165" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" height="165" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+----
+## :books: My Coding Stats
+
+<div>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
+</div>
+
+
+---
+If you like what I do, maybe consider buying me a coffee/tea 👉👈
+
+<a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
