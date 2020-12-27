@@ -45,14 +45,6 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-----
-## :books: My Coding Stats
-
-<div>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
-</div>
-
 ---
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -91,6 +83,13 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+----
+## :books: My Coding Stats
+
+<div>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
+  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
+</div>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
