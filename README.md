@@ -74,7 +74,7 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&theme=tokyonight" alt="sadabnepal" height="165" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sadabnepal&theme=onedark" alt="sadabnepal" /></a> </p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
