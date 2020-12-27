@@ -57,11 +57,6 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
-
-<a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
 🚧 **My Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  446 Karma Points           
@@ -90,6 +85,12 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/27ffdfb5-62e8-444b-a907-10800249bb7a.svg" width="400"/>
 </div>
+
+
+---
+If you like what I do, maybe consider buying me a coffee/tea 👉👈
+
+<a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
