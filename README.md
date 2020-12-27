@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
-<img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/develop/images/mygit.gif" width="350" height="220" />
+<img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/develop/images/im2.gif" width="350" height="220" />
   
 **Talking about few Stuffs:**
 
