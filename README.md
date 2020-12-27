@@ -46,7 +46,7 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-📊 **This Week I Spent My Time On:**
+**This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Java    2 hrs 47 mins   █████████████████▒░░░░░░░   69.26 % 
@@ -57,15 +57,7 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-🚧 **My Todo List Stats:**
-<!-- TODO-IST:START -->
-🏆  446 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 5 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
 
----
 ####  Statistics and Languages
 
 <p align="left"> 
@@ -79,7 +71,17 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ----
-## :books: My Coding Stats
+
+**My Todo List Stats:**
+<!-- TODO-IST:START -->
+🏆  446 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 5 tasks so far           
+⏳  Longest streak is 0 days
+<!-- TODO-IST:END -->
+
+---
+**My Coding Stats:**
 
 <div>
   <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/470906a6-0d0f-4a23-8d89-4d9dee5a4c32.svg" align="left" width="400"/>
