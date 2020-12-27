@@ -79,9 +79,12 @@ If you like what I do, maybe consider buying me a coffee/tea 👉👈
 <!-- TODO-IST:END -->
 
 ---
-GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadabnepal&show_icons=true&locale=en&layout=compact" alt="sadabnepal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadabnepal&show_icons=true&locale=en" alt="sadabnepal" /></p>
+####  Statistics and Languages
+
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=buefy" alt="sadab" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="sadab" height="165" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
