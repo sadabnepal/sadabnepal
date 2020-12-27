@@ -69,10 +69,10 @@ YAML    1 min           ░░░░░░░░░░░░░░░░░░�
 ####  Statistics and Languages
 
 <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=buefy" alt="sadab" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="sadab" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=tokyonight" alt="sadab" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=tokyonight" alt="sadab" height="165" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&" alt="sadabnepal" height="165" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabnepal&theme=tokyonight" alt="sadabnepal" height="165" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabnepal" alt="sadabnepal" /></a> </p>
 
