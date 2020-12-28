@@ -41,6 +41,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-%230089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 ![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
