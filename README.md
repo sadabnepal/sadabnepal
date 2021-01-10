@@ -50,7 +50,9 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         3 hrs 45 mins   ██████████████████████▓░░   91.22 % 
+XML          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Properties   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 <!--END_SECTION:waka-->
 
