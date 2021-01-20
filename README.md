@@ -70,29 +70,9 @@ XML          14 mins         ▒░░░░░░░░░░░░░░░░
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-----
-
-**My Todo List Stats:**
-<!-- TODO-IST:START -->
-🏆  479 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 6 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
----
-**My Coding Stats:**
-
-<div>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/563b91b7-f0e3-4389-9e7f-4d2eea2747e9.svg" align="left" width="400"/>
-  <img src="https://wakatime.com/share/@69d54b07-6d5c-445d-802d-56e855c61b97/c684c224-d964-4d9d-bdc5-51278c34ac68.svg" width="400"/>
-</div>
 
 
 ---
 If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sadab's Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Oy6pM4od0xZDbxWrpshpE)
