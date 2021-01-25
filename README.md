@@ -50,10 +50,10 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         9 hrs 27 mins   ██████████████████████▒░░   89.54 % 
-XML          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Properties   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Java         8 hrs 40 mins   ██████████████████████▒░░   88.70 % 
+XML          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Properties   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 <!--END_SECTION:waka-->
 
