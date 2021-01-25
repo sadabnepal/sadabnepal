@@ -21,7 +21,7 @@
 ---
 **Languages and Tools:**
 
-![Selenium](https://img.shields.io/badge/selenium%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium%20-CB02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO%20-%23E34F26.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
