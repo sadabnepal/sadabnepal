@@ -48,9 +48,9 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         6 hrs 39 mins   ███████████████████████░░   92.12 % 
-Properties   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-XML          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Java         5 hrs 38 mins   ███████████████████████▒░   93.97 % 
+Properties   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
