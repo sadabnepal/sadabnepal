@@ -33,18 +33,16 @@
 ![Node](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?&style=for-the-badge&logo=Python&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS Services](https://img.shields.io/badge/-AWS%20SERVICES-%23424160?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Bamboo](https://img.shields.io/badge/-Bamboo-%230052CC?&style=for-the-badge&logo=Bamboo&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-%230052CC?&style=for-the-badge&logo=JIRA&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-%230089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 ![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-Pycharm-%23000000?&style=for-the-badge&logo=Pycharm&logoColor=white)
 
 ---
 **This Week I Spent My Time On:**
@@ -71,8 +69,8 @@ XML          16 mins         █░░░░░░░░░░░░░░░░
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-
+<!---
 ---
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
-
+If you like my framework, maybe consider buying me a coffee/tea 👉👈
+<!---
 <a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
