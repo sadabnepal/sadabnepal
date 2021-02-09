@@ -15,7 +15,7 @@
 - 💻 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about anything, I am happy to help
 - 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📔 Checkout my [Resume](https://github.com/sadabnepal/sadabnepal.github.io/blob/master/files/MdSadabSaqib_Resume.pdf)
+- 📔 Checkout my [Resume](https://sadabnepal.github.io/files/MdSadabSaqib_Resume.pdf)
 - 🧾 My 2021 Goal : Master DS Algo and DevOps
 
 ---
