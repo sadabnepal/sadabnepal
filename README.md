@@ -48,9 +48,10 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         45 mins         █████████████████▓░░░░░░░   71.21 % 
-Git Config   12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Java         1 hr 34 mins    ███████████████████▓░░░░░   79.00 % 
+Git Config   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+XML          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
 
