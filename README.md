@@ -23,6 +23,7 @@
 
 ![Selenium](https://img.shields.io/badge/selenium%20-CB02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
+![Rest-Assured](https://img.shields.io/badge/-Rest%20Assured-4BA82E?&style=for-the-badge&logo=Java&logoColor=white)
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=Probot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?&style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -33,7 +34,6 @@
 ![Node](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?&style=for-the-badge&logo=Python&logoColor=white)
-![AWS Services](https://img.shields.io/badge/-AWS%20SERVICES-%23424160?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Bamboo](https://img.shields.io/badge/-Bamboo-%230052CC?&style=for-the-badge&logo=Bamboo&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-%230052CC?&style=for-the-badge&logo=JIRA&logoColor=white)
 ![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
