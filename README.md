@@ -63,9 +63,11 @@ JSON         38 mins         ███████████░░░░░░
 </p>
 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sadabnepal&theme=onedark&column=7&margin-w=15&margin-h=15" alt="sadabnepal" /></a> </p>
+<!---
+   <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sadabnepal&theme=onedark&column=7&margin-w=15&margin-h=15" alt="sadabnepal" /></a> </p>
+--->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
