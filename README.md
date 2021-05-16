@@ -48,7 +48,11 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         1 hr 55 mins    ███████████▒░░░░░░░░░░░░░   45.45 % 
+Markdown     1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   35.85 % 
+JavaScript   33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+TypeScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
