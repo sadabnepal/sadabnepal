@@ -46,7 +46,7 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JSON         2 mins          ██████████████████▓░░░░░░   74.77 % 
+JSON         2 mins          ███████████████████░░░░░░   75.41 % 
 ```
 <!--END_SECTION:waka-->
 
