@@ -56,11 +56,11 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 
 ---
 
-####  Statistics and Languages
+####  Statistics
 
 <p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=tokyonight" alt="sadab" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=tokyonight" alt="sadab" height="165" />
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabnepal&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=tokyonight" alt="sadab" height="165" /> -->
 </p>
 
 
