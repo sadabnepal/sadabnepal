@@ -66,13 +66,12 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 
 <!---
    <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sadabnepal&theme=onedark&column=7&margin-w=15&margin-h=15" alt="sadabnepal" /></a> </p>
---->
+
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!---
 ---
 If you like my framework, maybe consider buying me a coffee/tea 👉👈
-<!---
+
 <a href="https://www.buymeacoffee.com/sadabnepal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+--->
