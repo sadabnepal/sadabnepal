@@ -2,10 +2,7 @@
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
-[![Website Badge](https://img.shields.io/badge/-sadabnepal.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sadabnepal.github.io/)](https://sadabnepal.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@SadabSaqib-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaqibSadab)](https://twitter.com/SaqibSadab)
-[![Gmail Badge](https://img.shields.io/badge/-sadabnepal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadabnepal1993@gmail.com)](mailto:sadabnepal1993@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
 
 <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/images/coder.gif" width="350" height="220" />
   
@@ -16,7 +13,7 @@
 - 💬 Ask me about testing, I am happy to help
 - 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
 - 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_5.5Yrs.pdf)
-- 🧾 My 2021 Goal : Master DS Algo and DevOps
+- 🧾 My 2021 Goal : cloud Ppractitioner certification
 
 ---
 **Languages and Tools:**
