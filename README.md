@@ -43,10 +43,7 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 44 mins    ███████████████████▒░░░░░   77.64 % 
-JSON         17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+XML          8 mins          ████████████████████████▒   97.42 % 
 ```
 <!--END_SECTION:waka-->
 
