@@ -46,9 +46,9 @@
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 28 mins    ███████████████▓░░░░░░░░░   62.54 % 
-Gherkin      49 mins         █████████░░░░░░░░░░░░░░░░   35.43 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript   2 hrs 32 mins   ██████████████████▓░░░░░░   74.79 % 
+Gherkin      44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.01 % 
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->
 
