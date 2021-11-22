@@ -12,7 +12,7 @@
 - 💻 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about testing, I am happy to help
 - 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_5.5Yrs.pdf)
+- 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_6Yrs.pdf)
 - 🧾 My 2021 Goal : []
 
 ---
