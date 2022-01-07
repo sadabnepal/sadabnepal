@@ -8,12 +8,12 @@
   
 **Talking about few Stuffs:**
 
-- 🔭 I’m currently working on [WebdriverIO with TypeScript](https://github.com/sadabnepal/WDIO6_TypeScript_BDD)
+- 🔭 I’m currently working on [WebdriverIOTypeScriptHybrid](https://github.com/sadabnepal/WebdriverIOTypeScriptHybrid)
 - 💻 I’m currently learning **Data structure and Algorithm**
-- 💬 Ask me about testing, I am happy to help
+- 💬 Ask me about WebdriverIO, I am happy to help
 - 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
 - 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_6Yrs.pdf)
-- 🧾 My 2021 Goal : []
+- 🧾 My 2022 Goal : [docker, API developement, Mobile testing]
 
 ---
 **Languages and Tools:**
