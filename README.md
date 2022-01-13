@@ -8,7 +8,7 @@
   
 **Talking about few Stuffs:**
 
-- 🔭 I’m currently working on [WebdriverIOTypeScriptHybrid](https://github.com/sadabnepal/WebdriverIOTypeScriptHybrid)
+- 🔭 I’m currently working on [WebdriverIOTypeScriptE2E](https://github.com/sadabnepal/WebdriverIOTypeScriptE2E)
 - 💻 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about WebdriverIO, I am happy to help
 - 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
