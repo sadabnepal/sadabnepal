@@ -1,9 +1,6 @@
 <h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sadabnepal.sadabnepal)
-
 <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/images/coder.gif" width="350" height="220" />
   
 **Talking about few Stuffs:**
@@ -11,8 +8,8 @@
 - 🔭 I’m currently working on [WebdriverIOTypeScriptE2E](https://github.com/sadabnepal/WebdriverIOTypeScriptE2E)
 - 💻 I’m currently learning **Data structure and Algorithm**
 - 💬 Ask me about WebdriverIO, I am happy to help
-- 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_6Yrs.pdf)
+- 📠 How to reach me: [![LinkedIn](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
+- 📔 Checkout my [Youtube Channel](https://www.youtube.com/c/TestAutomationHub)
 - 🧾 My 2022 Goal : [docker, API developement, Mobile testing]
 
 ---
