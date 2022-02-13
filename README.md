@@ -10,7 +10,7 @@
 - 💬 Ask me about WebdriverIO, I am happy to help
 - 📠 How to reach me: [![LinkedIn](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
 - 📔 Checkout my [Youtube Channel](https://www.youtube.com/c/TestAutomationHub)
-- 🧾 My 2022 Goal : [docker, API developement, Mobile testing]
+- 🧾 My 2022 Goal : [ Docker, API developement, Mobile Testing ]
 
 ---
 **Languages and Tools:**
