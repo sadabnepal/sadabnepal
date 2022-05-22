@@ -1,17 +1,11 @@
 <h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 
-<img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/images/coder.gif" width="350" height="220" />
-
-  
-**Talking about few Stuffs:**
-
-- 🔭 I’m currently working on [WebdriverIOTypeScriptE2E](https://github.com/sadabnepal/WebdriverIOTypeScriptE2E)
-- 💻 I’m currently learning **Data structure and Algorithm**
-- 💬 Ask me about WebdriverIO, I am happy to help
-- 📠 How to reach me: [![LinkedIn](https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/)](https://www.linkedin.com/in/sadabnepal/)
-- 📔 Checkout my [Youtube Channel](https://www.youtube.com/c/TestAutomationHub)
-- 🧾 My 2022 Goal : [ Docker, API developement, Mobile Testing ]
+<p align="center">
+	<a href="https://www.linkedin.com/in/sadabnepal/"><img src="https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/" alt="Linked"></a>
+  <a href="https://github.com/sadabnepal"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white&link=https://github.com/sadabnepal" alt="GitHub"></a>
+  <a href="https://www.youtube.com/c/TestAutomationHub"><img src="https://img.shields.io/badge/-Youtube-white?style=flat&logo=Youtube&logoColor=red&link=https://www.youtube.com/c/TestAutomationHub" alt="GitHub"></a>
+</p>
 
 ---
 **Languages and Tools:**
@@ -34,6 +28,11 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
 
+---
+
+<img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/tea_banner.gif" alt="Coder GIF" width="500">
+
+---
 
 ####  Statistics
 
