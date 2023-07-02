@@ -29,8 +29,10 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-
+<!--
 <img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/tea_banner.gif" alt="Coder GIF" width="500">
+-->
+<img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000">
 
 ---
 
