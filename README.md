@@ -1,5 +1,8 @@
+<!--
 <h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
+-->
+<img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000">
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/sadabnepal/"><img src="https://img.shields.io/badge/-sadabnepal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadabnepal/" alt="Linked"></a>
@@ -32,7 +35,6 @@
 <!--
 <img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/tea_banner.gif" alt="Coder GIF" width="500">
 -->
-<img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000">
 
 ---
 
