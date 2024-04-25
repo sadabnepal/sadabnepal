@@ -18,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-grey?&style=for-the-badge&logo=node.js&logoColor=green)
+![GraphQL](https://img.shields.io/badge/-GraphQL-grey?&style=for-the-badge&logo=Graphql&logoColor=FF55C5)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?logo=cucumber&logoColor=white&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/selenium%20-CB02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
@@ -28,9 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub-Actions](https://img.shields.io/badge/-GitHub%20Actions-%23181717?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![codefresh](https://img.shields.io/badge/-codefresh-%2317202C?&style=for-the-badge&logo=codefresh&logoColor=24b492)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
-
 ---
 <!--
 <img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/tea_banner.gif" alt="Coder GIF" width="500">
