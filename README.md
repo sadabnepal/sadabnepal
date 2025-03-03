@@ -7,6 +7,7 @@
 ---
 **Languages and Tools:**
 
+![Playwright](https://img.shields.io/badge/🎭-Playwright-393?&style=for-the-badge&logo=Playwright&logoColor=fff)
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -27,7 +28,6 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Codefresh Badge](https://img.shields.io/badge/Codefresh-08B1AB?logo=codefresh&logoColor=fff&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
-![Playwright Badge](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=for-the-badge)
 ![Appium Badge](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=for-the-badge)
 ![k6 Badge](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=fff&style=for-the-badge)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
