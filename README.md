@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub-Actions](https://img.shields.io/badge/-GitHub%20Actions-%23181717?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+![GitHub Co-pilot](https://img.shields.io/badge/-GitHub%20copilot-%23181717?&style=for-the-badge&logo=GitHub%20copilot&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Codefresh Badge](https://img.shields.io/badge/Codefresh-08B1AB?logo=codefresh&logoColor=fff&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
