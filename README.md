@@ -37,9 +37,9 @@
 
 ---
 
-
+<!--
 ####  Statistics
 
 <p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=sadabnepal&count_private=true&show_icons=true&theme=tokyonight" alt="sadab" width="420"/> 
-</p>
+</p> -->
