@@ -5,7 +5,7 @@
 <!-- <img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000"> -->
 
 ---
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=sadabnepal&theme=dracula&leetcode=md_owais_&align=center)
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=sadabnepal&theme=dracula&align=center)
 ---
 **Languages and Tools:**
 
