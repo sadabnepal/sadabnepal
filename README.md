@@ -2,8 +2,10 @@
 <h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 -->
-<img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000">
+<!-- <img src="https://github.com/sadabnepal/sadabnepal/blob/main/images/README_intro.png" alt="Coder GIF" width="1000"> -->
 
+---
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=sadabnepal&theme=dracula&leetcode=md_owais_&align=center)
 ---
 **Languages and Tools:**
 
