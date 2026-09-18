@@ -33,6 +33,9 @@
 ![Appium Badge](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=for-the-badge)
 ![k6 Badge](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=fff&style=for-the-badge)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
+![Kafka Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+<!-- ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?&style=for-the-badge&logo=playwright&logoColor=fff) -->
 
 ---
 
